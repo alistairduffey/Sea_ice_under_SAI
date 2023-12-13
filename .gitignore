@@ -1,0 +1,9 @@
+# ignore testing ipynbs:
+z_*
+
+# ignore preprocessed data csvs
+preprocessed_tas/
+preprocessed_sea_ice/
+
+# ignore figures for now
+Figures/
